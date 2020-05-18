@@ -1,8 +1,10 @@
 # Easy-AnimeGAN
 From https://github.com/TachibanaYoshino/AnimeGAN, easier to run a demo
+
 这项来自武汉大学和湖北工业大学的研究，采用的是神经风格迁移 + 生成对抗网络（GAN）的组合。今天我们就来尝试一下，使用这个模型来将真实世界的风景图转换成宫崎骏画风的动漫吧~
 
 论文出处：《AnimeGAN: a novel lightweight GAN for photo animation》
+
 源码地址：[https://github.com/TachibanaYoshino/AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN)
 
 # 0. 效果图： 
